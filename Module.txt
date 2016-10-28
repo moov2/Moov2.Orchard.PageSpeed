@@ -1,0 +1,11 @@
+﻿Name: Moov2.PageSpeed
+AntiForgery: enabled
+Author: Moov2
+Website: http://moov2.com
+Version: 0.1
+OrchardVersion: 1.0
+Description: Analyses pages within Orchard using PageSpeed Insights by Google.
+Category: Developer
+Features:
+    Moov2.PageSpeed:
+        Description: Analyses pages within Orchard using PageSpeed Insights by Google.
